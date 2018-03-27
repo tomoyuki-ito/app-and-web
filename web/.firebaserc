@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "sample-7b9b4",
+    "staging": "sample-7b9b4"
+  }
+}
